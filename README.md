@@ -1,57 +1,77 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=SYSTEM%20READY:%20YASSIN&fontSize=50&animation=fadeIn&fontAlignY=50&fontColor=fff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=YASSIN%20_%20&fontSize=80&animation=twinkling&fontAlignY=40" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=LOADING+COMPUTER+ENGINEER...;PHP+OBJECT+ORIENTED+EXPERT;NETWORKING+STUDENT+(CCNA);LINUX+POWER+USER" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;PHP+OOP+Enthusiast;CCNA+in+Progress;Linux+Pinguin;Cybersecurity+Advocate" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Morocco-red?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-First_Year_Eng-blue?style=flat-square&logo=bookstack&logoColor=white" />
 </p>
 
 ---
 
+<table border="0" width="100%">
+  <tr style="border: none;">
+    <td width="55%" style="border: none; vertical-align: top;">
+      <h3>⚡ Terminal Log</h3>
+      <p><code><b>yassin@root:~$</b> cat developer_info.json</code></p>
+      <pre>
+{
+  "focus": "Backend & Infrastructure",
+  "project": "Student Portfolio (PHP/Postgre)",
+  "vibe": "Dark Mode & High Performance",
+  "goal": "Cybersecurity Expert",
+  "os": "Linux"
+}
+      </pre>
+      <p>Building secure digital bridges between <b>Code</b> and <b>Hardware</b>.</p>
+    </td>
+    <td width="45%" align="center" style="border: none;">
+       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc5a2VzZ3R6Z2VzZ3R6Z2VzZ3R6Z2VzZ3R6Z2VzZ3R6ZyZjdD1z/L180ETvVUMYhP1yYc9/giphy.gif" width="180" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">🛠️ Tech Ecosystem</h3>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=php,postgres,linux,c,bash,git,docker,networking&perline=4" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-CCNA_Journey-005073?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Backend_Architecture-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">📊 System Metrics</h3>
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="left">
-        <h3>🛰️ Mission Brief</h3>
-        <p><b>Current Location:</b> <code>Morocco / 31.7917° N, 7.0926° W</code></p>
-        <p><b>Core Focus:</b> Developing the <i>Student Portfolio Platform</i> using a <b>PostgreSQL + PHP</b> stack with strict OOP principles.</p>
-        <p><b>Network Status:</b> Routing packets & mastering CCNA protocols.</p>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://skillicons.dev/icons?i=php,postgres,linux,c,bash,git,docker,networks,mysql,html,css,github&perline=3" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=true" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=aura_dark&hide_border=false" height="185" />
 </div>
 
----
-
-<h3 align="center">⚡ System Analytics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=calvin_and_hobbes&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=fff&border_color=00FF9D&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=calvin_and_hobbes&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=fff&border_color=00FF9D&hide_border=false" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=aura_dark&hide_border=false" width="85%" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<br />
-
+<h3 align="center">🐍 Contribution Activity</h3>
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=30&section=footer" width="100%" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" width="100%" />
+</p>
+
