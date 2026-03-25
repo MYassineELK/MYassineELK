@@ -1,18 +1,13 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Mohammad%20Yacine%20Elkanfoudi&fontSize=62&fontColor=00f5ff&animation=twinkling&fontAlignY=45&desc=Computer%20Engineering%20Student%20%7C%20Future%20Cloud%20Engineer%20☁️&descSize=18&descAlignY=65&descColor=c77dff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Mohammad%20Yacine%20Elkanfoudi&fontSize=58&fontColor=00f5ff&animation=twinkling&fontAlignY=45&desc=Computer%20Engineering%20Student%20%7C%20Future%20Cloud%20Engineer%20☁️&descSize=18&descAlignY=65&descColor=c77dff"/>
 
 <!-- ANIMATED TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&width=700&lines=🧠+CS+Student+%40+Morocco+%7C+PHP+%7C+JS+%7C+SQL;☁️+Dreaming+in+Cloud+%7C+Building+in+Code;🚀+Currently+Building+PortfolioLink+Platform;🌍+Coding+in+4+Languages+-+Darija%2C+AR%2C+FR%2C+EN" alt="Typing SVG" />
 
 <br/>
 
-<!-- BADGES -->
-<img src="https://img.shields.io/badge/Status-Actively%20Building-00f5ff?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Location-Casablanca%20🇲🇦-c77dff?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Focus-Cloud%20Computing%20☁️-ff6b9d?style=flat-square&labelColor=0d1117"/>
-<img src="https://komarev.com/ghpvc/?username=MYassineELK&style=flat-square&color=00f5ff&label=👁️+Profile+Views&labelColor=0d1117"/>
 
 </div>
 
@@ -24,7 +19,7 @@
 ```js
 const Mohammad Yacine Elkanfoudi = {
   🎓 education : "Computer Engineering (هندسة المعلوميات) — 3nd Year",
-  📍 location  : "Casablanca, Morocco 🇲🇦",
+  📍 location  : "Tanger, Morocco 🇲🇦",
   💡 interests : ["Cloud Computing ☁️", "Web Dev 🌐", "Problem Solving 🧩"],
   🌍 languages : ["Darija 🇲🇦", "Arabic 🌙", "French 🇫🇷", "English 🇬🇧"],
   🎯 goal      : "Become a Cloud Engineer & build impactful software",
